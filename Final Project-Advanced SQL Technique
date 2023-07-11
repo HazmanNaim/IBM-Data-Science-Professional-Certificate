@@ -1,3 +1,4 @@
+%%sql
 --Write and execute a SQL query to list the school names, community names and average attendance for communities with a hardship index of 98.
 SELECT S.NAME_OF_SCHOOL, C.COMMUNITY_AREA_NAME, S.AVERAGE_STUDENT_ATTENDANCE
 FROM CHICAGO_PUBLIC_SCHOOLS AS S 
