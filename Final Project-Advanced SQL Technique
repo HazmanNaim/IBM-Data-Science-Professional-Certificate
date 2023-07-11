@@ -1,0 +1,76 @@
+--Write and execute a SQL query to list the school names, community names and average attendance for communities with a hardship index of 98.
+SELECT S.NAME_OF_SCHOOL, C.COMMUNITY_AREA_NAME, S.AVERAGE_STUDENT_ATTENDANCE
+FROM CHICAGO_PUBLIC_SCHOOLS AS S 
+LEFT OUTER JOIN CENSUS_DATA AS C 
+ON C.COMMUNITY_AREA_NUMBER = S.COMMUNITY_AREA_NUMBER
+WHERE HARDSHIP_INDEX = 98;
+
+--List all crimes (took place at school). Include case number, crime type and community name
+SELECT C.CASE_NUMBER, C.PRIMARY_TYPE, CD.COMMUNITY_AREA_NAME
+FROM CHICAGO_CRIME_DATA AS C
+LEFT OUTER JOIN CENSUS_DATA AS CD
+ON C.COMMUNITY_AREA_NUMBER = CD.COMMUNITY_AREA_NUMBER
+WHERE LOCATION_DESCRIPTION LIKE '%SCHOOL%';
+
+--Creating new view and execute
+CREATE VIEW school_view(School_Name, Safety_Rating, Family_Rating, Environment_Rating, Instruction_Rating, Leaders_Rating, Teachers_Rating)
+AS SELECT NAME_OF_SCHOOL, Safety_Icon, Family_Involvement_Icon, Environment_Icon, Instruction_Icon, Leaders_Icon, Teachers_Icon
+FROM CHICAGO_PUBLIC_SCHOOLS;
+
+SELECT * FROM SCHOOL_VIEW;
+
+SELECT School_Name, Leaders_Rating FROM school_view;
+
+--#SET TERMINATOR @
+CREATE OR REPLACE PROCEDURE UPDATE_LEADERS_SCORE(
+	IN in_School_ID INTEGER, IN in_Leader_Score INTEGER)
+
+LANGUAGE SQL                        -- Language used in this routine 
+MODIFIES SQL DATA                      -- This routine will only read data from the table
+
+BEGIN 
+
+	UPDATE CHICAGO_PUBLIC_SCHOOLS
+	SET Leaders_Score = in_Leader_Score
+	WHERE School_ID = in_School_ID;
+	
+	
+    IF in_Leader_Score > 0 AND in_Leader_Score < 20 THEN                           -- Start of conditional statement
+        UPDATE CHICAGO_PUBLIC_SCHOOLS
+        SET Leaders_Icon = 'Very_weak'
+        WHERE School_ID = in_School_ID;
+    
+    ELSEIF in_Leader_Score < 40 THEN
+        UPDATE CHICAGO_PUBLIC_SCHOOLS
+        SET Leaders_Icon = 'Weak'
+        WHERE School_ID = in_School_ID;
+        
+    ELSEIF in_Leader_Score < 60 THEN
+        UPDATE CHICAGO_PUBLIC_SCHOOLS
+        SET Leaders_Icon = 'Average'
+        WHERE School_ID = in_School_ID;   
+        
+    ELSEIF in_Leader_Score < 80 THEN
+        UPDATE CHICAGO_PUBLIC_SCHOOLS
+        SET Leaders_Icon = 'Strong'
+        WHERE School_ID = in_School_ID;  
+        
+    ELSEIF in_Leader_Score < 100 THEN
+        UPDATE CHICAGO_PUBLIC_SCHOOLS
+        SET Leaders_Icon = 'Very strong'
+        WHERE School_ID = in_School_ID; 
+        
+	ELSE 
+    	ROLLBACK WORK;		--Added ELSE clause 
+        
+    END IF;  
+
+    COMMIT WORK;		--Added statement to commit the current work
+    
+END
+@	-- Routine termination character
+
+--ADDITIONAL CODE
+ALTER TABLE CHICAGO_PUBLIC_SCHOOLS
+ALTER COLUMN Leaders_Icon SET DATA TYPE VARCHAR(20);         --Output for Stored Procedure UPDATE_LEADERS_SCORE is too long
+
