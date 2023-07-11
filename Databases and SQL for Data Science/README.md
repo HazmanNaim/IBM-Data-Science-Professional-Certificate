@@ -43,7 +43,7 @@ The purpose of this course is to introduce relational database concepts and to l
 - Working with Real World Datasets
 - Getting Table and Column Details
 - Loading Data
-## Bonus Module: Advanced SQL for Data Engineering
+### Bonus Module: Advanced SQL for Data Engineering
 - Views, Stored Procedures, and Transactions
 - Using Views
 - Stored Procedures
