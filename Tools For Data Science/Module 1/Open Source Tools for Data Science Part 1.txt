@@ -1,0 +1,73 @@
+Welcome to “Open-Source Tools
+for Data Science Part 1.” After watching this video, you will be able to: List the open-source data management tools. List the open-source data
+integration and transformation tools. List the data visualization tools. List the model tools for building,
+deployment, monitoring, and assessment, and List tools for code and data asset management. So, the most widely used open-source data management tools are relational
+databases like MySQL and PostgreSQL. Also, there are NoSQL Databases like MongoDB,
+Apache CouchDB, and Apache Cassandra. In addition, there are file-based tools like the Hadoop File System or
+Cloud File systems like Ceph. You also have an elastic search
+tool that stores text data, including the creation of a search
+index for fast document retrieval. Now, the task of data integration
+and transformation in the classic data warehousing world is to
+Extract, Transform, and Load (ETL). Data scientists often propose Extract, Load,
+Transform (ELT) as data is dumped somewhere, and the data engineer or data scientist
+handles the transformation of the data. Another term for this process
+emerged: Data Refinery and Cleansing. The most widely used open-source data integration
+and transformation tools are the following: Apache AirFlow, which was
+created by Airbnb originally. KubeFlow, which allows the execution of
+data science pipelines on top of Kubernetes. Apache Kafka, which originated from LinkedIn. Apache Nifi, which delivers
+a very nice visual editor. Apache SparkSQL, lets you use ANSI SQL
+and scales up to compute clusters of thousands of nodes and NodeRED
+also brings a visual editor. In addition, NodeRED is so low
+in resource consumption that it even runs on tiny devices like a Raspberry Pi. Now let’s discuss the most widely used
+open-source data visualization tools. You must distinguish between programming libraries where you must use code or tools
+containing a user interface. Pixie Dust is also a library but has a user
+interface that facilitates plotting in Python. A similar approach uses Hue, which can
+create visualizations from SQL queries. Whereas Kibana, a data exploration, and visualization web application is
+limited to Elasticsearch (data provider). And finally, Apache Superset is a data
+exploration and visualization web application. Model deployment is a crucial step. Once you’ve created a machine learning model
+capable of predicting some critical aspects of the future, you should make it consumable
+by other developers and turn it into an API. Apache PredictionIO currently only supports
+Apache Spark ML models for deployment, but support for all libraries is on the roadmap. Seldon is an interesting product since it
+supports nearly every framework including, TensorFlow, Apache SparkML, R, and scikit learn. Interestingly, it can run on top
+of Kubernetes and Redhat OpenShift. Another way to deploy SparkML
+models is MLeap. Finally, TensorFlow can serve any tensor flow
+model using the TensorFlow service. It can be an embedded device like
+a Raspberry Pi or smartphone using TensorFlow lite and deployed to a
+web browser using TensorFlow dot JS. Model monitoring is an important step as well. Once you’ve deployed a machine learning model, you want to track its prediction performance while
+new data arrives to maintain outdated models. Some examples are the following: ModelDB is a machine model metadata base where information about the
+models is stored and queried. It natively supports Apache Spark
+ML Pipelines and scikit-learn. A generic, multi-purpose tool called
+Prometheus is widely used as well. Although it is not specifically made
+for machine learning model monitoring, it is used for this purpose. Model performance is measured
+by more than accuracy. Model bias against protected groups like
+gender or race is important as well. The IBM AI Fairness 360 open-source toolkit detects and mitigates bias
+in machine learning models. These models, especially neural network-based deep
+learning models, can be subject to adversarial attacks where an attacker tries to mislead the
+model with manipulated data or by controlling it. The IBM Adversarial Robustness 360 Toolbox detects vulnerability against adversarial attacks
+and leverages the model to be more robust. Finally, machine learning modes are often
+considered as a black box applying some magic. The IBM AI Explainability 360 toolkit
+addresses that problem by finding similar examples in a dataset to be presented
+to an end-user for manual comparison. IBM AI Explainability 360 toolkit can
+also address the training of a simpler machine learning model to explain
+the responsibility of different input variables directed toward
+the final decision of the model. So, the choice of code asset management
+tools has become quite simple. Git is now the de facto standard
+for code asset management, also known as version management or version control. Around Git emerged several services. The most prominent is GitHub, but the
+runner-up is GitLab, with the advantage that the platform is entirely open source
+and can be hosted and managed on your own. Another choice is Bitbucket. Data asset management, also known as
+data governance or data lineage, is a crucial part of enterprise-grade data science. Data has to be versioned
+and annotated with metadata. Apache Atlas is such a tool supporting this task. Another interesting project is ODPi Egeria, managed through the Linux Foundation, is an
+open ecosystem offers a set of open APIs, types, and interchange protocols that metadata
+repositories use to share and exchange data. And finally, Kylo is an open-source
+data management software platform, with extensive support for
+data asset management tasks. In this video, you learned that: Data management tools are
+MySQL, PostgreSQL, MongoDB, Apache CouchDB, Apache Cassandra, Hadoop
+File System, Ceph, and elastic search. Data integration and transformation
+tools are Apache AirFlow, KubeFlow, Apache Kafka, Apache Nifi,
+Apache SparkSQL, and NodeRED. Data Visualization tools are Pixie
+Dust, Hue, Kibana, and Apache Superset. Model deployment tools are Apache
+PredictionIO, Seldon, Kubernetes, Redhat OpenShift, Mleap, TensorFlow service,
+TensorFlow lite, and TensorFlow dot JS. Model monitoring tools are ModelDB, Prometheus, IBM AI Fairness 360, IBM Adversarial Robustness
+360 Toolbox, and IBM AI Explainability 360. Code asset management tools are
+Git, GitHub, GitLab, and Bitbucket. And finally, data asset management tools
+are Apache Atlas, ODPi Egeria, and Kylo.

@@ -1,0 +1,36 @@
+[MUSIC] The emergence of Internet of things and
+advances in distributed computing have brought vast amounts of data and the
+technological capability to analyze it. Now that we can extract useful insights
+and new knowledge, we need to know how to shape that data to focus on what to
+do with it and what it can do for us. Enter data science. Companies like LinkedIn,
+Glassdoor, Indeed, and Dice track employment trends which
+show a career in data science moving up the list of most promising jobs
+to become number one since 2016. It remains one of the top
+three career choices for 2020. Dice noted that job postings are from
+companies in a wide variety of industries, not just tech. Global Industry Analysts Incorporated
+predicts that the data science platform market will
+grow by $314.8 billion US by 2025,
+driven by a compounded growth of 38.2%. McKinsey Global Institute warned
+of huge talent shortages for data and analytics by 2018. Forrester Research Analyst Brandon Purcell
+said, in January of 2019, the demand for
+data scientists will only grow as organizations increasingly
+rely on data-driven insights. We're now well into that period, and
+recruiters are finding it difficult to fill the growing need for
+talented data scientists. What motivates someone
+going into a data science? For one thing, data science
+applies to almost any discipline. So if you have the aptitude and
+desire to work with data, enjoy coding, have no problem learning math and
+statistics, and you are a good storyteller, then you can certainly
+enter a data science field and excel. For most people,
+this means acquiring additional tools and skills and continuously learning about
+new tools and techniques in the field. The women in data science initiative
+spearheaded by the Stanford Institute for Computational and Mathematical Computing
+have committed to inspire and educate data scientists worldwide, regardless of
+gender and to support women in the field. When you are seeking
+a career in data science, you need to make sure your skill set
+matches the role you are targeting. You can tailor your skill set to
+the specific area you want to enter, adding missing skills via one of the many
+excellent online training resources. Then you'll be prepared for
+a fascinating and rewarding career. So now it is time to move into
+this field, when there are such diverse choices available and education
+resources that make it a reality. [MUSIC]

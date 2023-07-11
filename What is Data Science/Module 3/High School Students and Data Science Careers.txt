@@ -1,0 +1,36 @@
+(Music) Learn how to program. Learn some math. Take a course in probability. Learn a little bit of statistics. And then, play. Build something, write something. I mean, when I say build, programming and
+building systems, building things isn't just physical, right? You can build computer systems, statistical
+systems, whatever. But once you try to do something, then you'll
+know what tools you need, right? And you'll say, "Oh, oh my god, what? "There's this expression there, "what does
+an inner product mean? "What's that? "How do I, oh, okay, I can learn that." And then when they get to college, they will
+have a big jump on many of the other college students. And so when they get out of college, they'll
+have an even bigger jump, and then make a lot of money. And they'll be happy, too. This stuff is fun, right? It's fun. If you're in high school and you're considering
+data science, I would say get familiar with data bases, start learning SQL, start thinking
+about, you know, computer science, if that's interesting. If you have a computer science course in your
+school, you know, take it, and that's a good part of being a data scientist. Beyond that there are probably ways to foster
+your creativity, right, your curiosity. If you like detective games, that's kind of
+cool, right. And if you like treasure hunts or whatever,
+right, if you're into that stuff, I think you'll, and you get the opportunity to do
+that stuff, that will help you as a data scientist because it's a really a good way to kind of
+make sure that you can be curious as you go about your daily life. (Music) Encourage the curiosity, encourage the experimentation. It's kind of like science fairs, science fairs
+are great, they encourage that experimentation, that learning from, asking a question and
+answering it through a scientific method, but doing that with data sets rather than
+vinegar volcanoes. It's kind of the same thing, but learning
+from data and we're going through an election season right now, there's a lot of stuff in
+the news about polls and survey results and that's a great way to start a conversation
+and talk about how do the people who ran the polls, how do they know, how can they predict
+what's going to happen in the election. So that's another cool way to start a conversation
+about data science. (Music) I would say encourage the person who is interested
+in data science because to pursue to, because it's a great career and it is something that
+is definitely going to be in need in the future. It's one of those highly sought after knowledge
+professions that are really important to businesses around the world. So being a data scientist and being able to
+help companies as they grow and learn how do to things more efficiently or how to do
+things smarter, there will always be a need for people like that. And data scientists are those people. (Music) I would say that I understand what you're
+talking about because I was never a great mathematics student as
+well. And I think there's actually a bunch of data
+scientist, who are really successful and popular, who are in the same boat. You know there's kind of arithmetic and math
+in school is not necessarily everybody's best subject. But when you combine it with, you know these
+aren't just hypothetical numbers, these aren't just, problem statements that you
+have no connection to. When you have a connection to the problem,
+it suddenly becomes much easier to use math to help understand it, I found. And so you know, knowing the people who will
+benefit from the math that you do I think is really cool. (Music)
