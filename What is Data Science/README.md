@@ -20,7 +20,7 @@
 ## 🔑 Key Skills Learned 
 - An overall understanding of what data science is, and why it is changing the way we do business and research.
 
-- ## 🏆 Certificates 
+## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
