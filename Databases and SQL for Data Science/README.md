@@ -10,7 +10,7 @@ The purpose of this course is to introduce relational database concepts and to l
 - Generating joins to query data from multiple tables
 
 ## 📚 Projects and Assignments
-[To be continued]
+[Advanced SQL for Data Engineers Project](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/78930c932f73b03ca1443c3fdd2f3ca2b7c6ae97/Databases%20and%20SQL%20for%20Data%20Science/Module%206/Final%20Project)
 
 ## 📑 Summary of Learning
 ### Getting Started with SQL
