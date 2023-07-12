@@ -11,6 +11,7 @@ The purpose of this course is to introduce relational database concepts and to l
 
 ## 📚 Projects and Assignments
 - [Analysis of Chicago Census, Crime, and School Data: SQL and Python Approach](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/5f97f9bae8fa9fe4cb65354fbf9d1deba4c90849/06.Databases%20and%20SQL%20for%20Data%20Science/Module%204/DB0201EN-Week3-1-4-Analyzing_SQLite.ipynb)
+- [Using Advanced SQL Techniques to Analyze Chicago Public Schools Data](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/5f97f9bae8fa9fe4cb65354fbf9d1deba4c90849/06.Databases%20and%20SQL%20for%20Data%20Science/Module%206/Final%20Project)
 
 
 ## 📑 Summary of Learning
