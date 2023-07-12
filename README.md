@@ -1,5 +1,7 @@
 # IBM Data Science Professional Certificate
 Last update: 12/7/2023
+
+Attention to Visitors: Please note that this repository does not offer specific solutions for the courseworks. However, if you are seeking an overview of this certification, you are more than welcome to explore!
 ## ❔ About
 The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a> comprises 10 online courses designed to equip learners with the necessary tools and skills for success in the field of data science. The program covers a wide range of topics including the use of open source tools and libraries, Python programming, working with databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms.
 
