@@ -10,7 +10,6 @@ The purpose of this course is to introduce relational database concepts and to l
 - Generating joins to query data from multiple tables
 
 ## 📚 Projects and Assignments
-- [Stock Data Extraction and Visualization: Tesla and Gamestop](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/89e36c497f67cb5f6062c941dc998a81442380e9/05.Python%20Project%20for%20Data%20Science/Project_Analysis%20of%20Historical%20Stock.ipynb)
 - [Analysis of Chicago Census, Crime, and School Data: SQL and Python Approach](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/5f97f9bae8fa9fe4cb65354fbf9d1deba4c90849/06.Databases%20and%20SQL%20for%20Data%20Science/Module%204/DB0201EN-Week3-1-4-Analyzing_SQLite.ipynb)
 
 
