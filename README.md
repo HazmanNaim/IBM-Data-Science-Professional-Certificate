@@ -19,8 +19,6 @@ This repository serves as a comprehensive collection of documentation and resour
   
   ✅ _Completed_   |   🔛 _Ongoing_
 
-  ✨✨Click on each course to view the relevant information and certificates!✨✨
-
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
   <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" height="75">

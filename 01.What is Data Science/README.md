@@ -24,6 +24,6 @@
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/2XLKEGZZPDCQ"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/01.What%20is%20Data%20Science/Asset/Cert1-1.png?raw=true" height="370"></a>
-  <a href="https://www.credly.com/badges/f0e0ae47-b039-4e05-89ef-fca2b6a408f9/public_url"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/01.What%20is%20Data%20Science/Asset/data-science-orientation.png?raw=true" height="370"></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/2XLKEGZZPDCQ"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/assets/77926273/b772c354-c14a-4742-a825-06414454d1f2" height="370"></a>
+  <a href="https://www.credly.com/badges/f0e0ae47-b039-4e05-89ef-fca2b6a408f9/public_url"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/assets/77926273/986d777f-8ae2-43dd-9080-55433ceb4ac7" height="370"></a>
 </p>
