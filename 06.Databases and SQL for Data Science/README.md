@@ -56,3 +56,11 @@ The purpose of this course is to introduce relational database concepts and to l
 - Join Overview
 - Inner Join
 - Outer Joins
+
+## 🏆 Certificates 
+To verify the certificates, click the images to follow the links.
+
+<p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/83ANBE8AQD9B"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/06.Databases%20and%20SQL%20for%20Data%20Science/Asset/Coursera6-1.png?raw=true" height="370"></a>
+  <a href="https://www.credly.com/badges/f38bd8c4-543e-4ab7-b108-60ac8967c363"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/06.Databases%20and%20SQL%20for%20Data%20Science/Asset/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png?raw=true" height="370"></a>
+</p>
