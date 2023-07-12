@@ -56,3 +56,11 @@
 - Working with different file formats, such as JSON, CSV, and XML, using Python.
 - Differentiating between APIs and REST APIs, understanding the principles and characteristics of RESTful architecture.
 - Summarizing how APIs receive and send information through request methods (e.g., GET, POST, PUT, DELETE) and response formats (e.g., JSON, XML).
+
+## 🏆 Certificates 
+To verify the certificates, click the images to follow the links.
+
+<p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/RG9F5W8J2FRD"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/04.Python%20for%20Data%20Science,%20AI%20&%20Development/Asset/Coursera4-1.png?raw=true" height="370"></a>
+  <a href="https://www.credly.com/badges/965f3d19-d89e-4dd2-8d56-abac5aecc258"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/04.Python%20for%20Data%20Science,%20AI%20&%20Development/Asset/python-for-data-science-and-ai.png?raw=true" height="370"></a>
+</p>
