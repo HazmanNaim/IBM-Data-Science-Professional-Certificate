@@ -14,7 +14,7 @@ This repository serves as a comprehensive collection of documentation and resour
 - ✅ [04. Python for Data Science, AI & Development](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/89e36c497f67cb5f6062c941dc998a81442380e9/04.Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 - ✅ [05. Python Project for Data Science](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/89e36c497f67cb5f6062c941dc998a81442380e9/05.Python%20Project%20for%20Data%20Science)
 - ✅ [06. Databases and SQL for Data Science with Python](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/89e36c497f67cb5f6062c941dc998a81442380e9/06.Databases%20and%20SQL%20for%20Data%20Science)
-- 🔛 07. Data Analysis with Python
+- ✅ [07. Data Analysis with Python](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/80b1a6b442ff6dc3603d864976974711b045fd65/07.Data%20Analysis%20With%20Python)
 - 🔛 08. Data Visualization with Python
 - 🔛 09. Machine Learning with Python
 - 🔛 10. Applied Data Science Capstone
