@@ -45,6 +45,6 @@ Check the [link](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Cer
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/7D5U2J7XXLUX"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/80b1a6b442ff6dc3603d864976974711b045fd65/07.Data%20Analysis%20With%20Python/Asset/Coursera%207D5U2J7XXLUX-1.png" height="370"></a>
-  <a href="https://www.credly.com/badges/ea07d8f8-48b5-4274-8d65-148f9df60ffa"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/80b1a6b442ff6dc3603d864976974711b045fd65/07.Data%20Analysis%20With%20Python/Asset/Cognitive_Class_-_Data_Analysis_w_Python.png" height="370"></a>
+  <a href="https://coursera.org/share/21ca52866107247edf82d2717a04d98c"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/282544193332bfc492482be34c222ac0c78d7077/08.Data%20Visualization%20with%20Python/Asset/Coursera%20KQ3RYZA6LNSE-1.png" height="370"></a>
+  <a href="https://www.credly.com/go/DOErL9xInR7eIy0L1IMOrg"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/282544193332bfc492482be34c222ac0c78d7077/08.Data%20Visualization%20with%20Python/Asset/Data_Visual_w_Python.png" height="370"></a>
 </p>
