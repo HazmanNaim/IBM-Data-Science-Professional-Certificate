@@ -1,5 +1,5 @@
 # IBM Data Science Professional Certificate
-Last update: 17/7/2023
+Last update: 22/7/2023
 
 Attention to Visitors: Please note that this repository does not offer specific solutions for the courseworks. However, if you are seeking an overview of this certification, you are more than welcome to explore!
 ## ❔ About
@@ -15,7 +15,7 @@ This repository serves as a comprehensive collection of documentation and resour
 - ✅ [05. Python Project for Data Science](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/89e36c497f67cb5f6062c941dc998a81442380e9/05.Python%20Project%20for%20Data%20Science)
 - ✅ [06. Databases and SQL for Data Science with Python](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/89e36c497f67cb5f6062c941dc998a81442380e9/06.Databases%20and%20SQL%20for%20Data%20Science)
 - ✅ [07. Data Analysis with Python](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/80b1a6b442ff6dc3603d864976974711b045fd65/07.Data%20Analysis%20With%20Python)
-- 🔛 08. Data Visualization with Python
+- ✅ [08. Data Visualization with Python](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/2244b2f7cd8af5da2e553e2054ed76e3c5b2c227/08.Data%20Visualization%20with%20Python)
 - 🔛 09. Machine Learning with Python
 - 🔛 10. Applied Data Science Capstone
   
