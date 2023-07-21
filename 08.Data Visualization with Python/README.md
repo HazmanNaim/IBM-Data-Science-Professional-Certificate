@@ -9,10 +9,36 @@ This course focuses on presenting and visualizing complex data in an understanda
 - Dashboard creation using Plotly Dash.
 
 ## 📚 Projects and Assignments
-[Analyzing and Visualizing US Domestic Airline Flights using a Dash Dashboard]()
+[Analyzing and Visualizing US Domestic Airline Flights using a Dash Dashboard](https://interactive-us-domestic-flights-dash-demo.onrender.com/)
 
 ## 📑 Summary of Learning
+### Module 1:
+- Describe the importance of data visualization
+- Relate the history of Matplotlib and its architecture
+- Apply Matplotlib to create plots using Jupyter notebooks
+- Read csv files into a Pandas DataFrame; process and manipulate the data in the DataFrame; and generate line plots using Matplotlib
 
+### Module 2:
+- Explain how to generate an area plot using Matplotlib
+- Describe why and how to create histograms using Matplotlib
+- Explain how to create bar charts
+- Create pie charts using Matplotlib
+- Create a box plot using Matplotlib
+
+### Module 3:
+- Apply advanced visualization tools to create waffle charts and word clouds.
+- Use Seaborn with Matplotlibto generate attractive regression plots.
+- Explain how to use the Folium, for visualizing geospatial data.
+- Use Folium to create maps and superpose markers.
+- Create Choropleth Maps with Folium.
+
+### Module 4:
+- Identify high-level popular Python dashboarding tools.
+- Demonstrate basic Plotly, Plotly.graph_objects, and Plotly express commands.
+- Demonstrate using Dash and basic Dash components (core and HTML).
+- Demonstrate adding different dashboard elements including text boxes, dropdown, graphs, and others.
+- Apply interactivity to dash core and HTML components.
+- Describe how a dashboard can be used to answer critical business questions.
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
