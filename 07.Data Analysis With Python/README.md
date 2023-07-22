@@ -14,8 +14,6 @@ Data analysis involves the systematic manipulation, refinement, and interpretati
 ## 📚 Projects and Assignments
 - [Modeling and Predicting Housing Prices in King County, USA: Analyzing House Sales Data](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/80b1a6b442ff6dc3603d864976974711b045fd65/07.Data%20Analysis%20With%20Python/Module%206/IBMDeveloperSkillsNetwork-DA0101EN-labs_Module%206_House_Sales_in_King_Count_USA.jupyterlite.ipynb)
   
-(Check out the source code in this [repository](https://github.com/HazmanNaim/demo-dash/tree/main))
-
 ## 📑 Summary of Learning
 Check the link [here](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/11c5a3d0a3b547d9cf265c1b24bbf9bfe22b64eb/07.Data%20Analysis%20With%20Python/Note/NOTE.md) for more detailed note.
 ### Module 1 Importing Datasets:
