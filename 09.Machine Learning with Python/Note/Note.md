@@ -261,8 +261,8 @@ The goal is to find the values of θ0 and θ1 that minimize the MSE, making the 
 Calculating θ0 and θ1:
 In simple linear regression, θ0 and θ1 can be estimated using the equations:
 
-θ1 = Σ((xi - x̄) * (yi - ȳ)) / Σ((xi - x̄)^2)
-θ0 = ȳ - θ1 * x̄
+$θ1 = Σ((xi - x̄) * (yi - ȳ)) / Σ((xi - x̄)^2)$
+$θ0 = ȳ - θ1 * x̄$
 
 Where:
 xi and yi are the data points
@@ -271,7 +271,7 @@ x̄ and ȳ are the means of the independent and dependent variables, respectivel
 Using the Model for Prediction:
 Once θ0 and θ1 are known, predictions can be made for new data points using the linear model equation. For example, to predict Co2 emission (y) based on engine size (x) for a specific car, use the equation:
 
-Co2Emission = θ0 + θ1 * EngineSize
+$Co2Emission = θ0 + θ1 * EngineSize$
 
 Advantages of Linear Regression:
 Linear regression is fast, simple to understand, and highly interpretable.
@@ -279,14 +279,14 @@ It doesn't require tuning of parameters like other machine learning algorithms.
 
 Note: There are some errors in the values provided in the transcript, which are mentioned in the transcript itself but will be updated in the next version.
 
-2.3 Model Evaluation in Regression Models
+## 2.3 Model Evaluation in Regression Models
 ### Introduction:
 Model evaluation is an essential step in regression to assess the accuracy of the model's predictions for unknown cases. Two common evaluation approaches are:
 1. Train and Test on the Same Dataset: The model is trained on the entire dataset, and then a portion of the same dataset is used for testing to calculate accuracy. It tends to have high training accuracy but low out-of-sample accuracy, which may lead to overfitting.
 2. Train/Test Split: The dataset is split into training and testing sets, which are mutually exclusive. The model is trained on the training set, and accuracy is evaluated on the testing set. This approach provides more realistic out-of-sample accuracy.
 
 ### Metrics for Accuracy:
-The simplest metric for accuracy is to compare the actual values (y) with the predicted values (y_hat) for the testing set. The error of the model is calculated as the average difference between predicted and actual values for all rows.
+The simplest metric for accuracy is to compare the actual values (y) with the predicted values $(y_hat)$ for the testing set. The error of the model is calculated as the average difference between predicted and actual values for all rows.
 
 ### Train and Test on the Same Dataset:
 - Training accuracy: The percentage of correct predictions the model makes using the test dataset (same dataset). A high training accuracy may indicate overfitting, where the model captures noise and lacks generalization.
@@ -333,7 +333,7 @@ Evaluation metrics are essential to understand the performance of a model. In th
 
 Each of these metrics serves to quantify the accuracy of predictions, and the choice of metric depends on the specific model, data type, and domain knowledge. Understanding and selecting appropriate evaluation metrics are crucial for assessing and improving the performance of regression models.
 
-2.5 Multiple Linear Regression
+## 2.5 Multiple Linear Regression
 **Introduction to Multiple Linear Regression**
 
 In this video, we'll be covering multiple linear regression, which involves using multiple independent variables to predict a dependent variable. Unlike simple linear regression, which uses only one independent variable, multiple linear regression extends the modeling capabilities to address more complex real-world scenarios.
@@ -350,24 +350,24 @@ There are two primary applications of multiple linear regression:
 
 The multiple linear regression model is represented as:
 
-\[ \hat{y} = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + \ldots + \theta_n x_n \]
+$\[ \hat{y} = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + \ldots + \theta_n x_n \]$
 
 where:
-- \(\hat{y}\) is the predicted value,
-- \(\theta_0\) to \(\theta_n\) are the coefficients,
-- \(x_1\) to \(x_n\) are the independent variables (features).
+- $\(\hat{y}\)$ is the predicted value,
+- $\(\theta_0\) to \(\theta_n\)$ are the coefficients,
+- $\(x_1\) to \(x_n\)$ are the independent variables (features).
 
 This equation can be represented in vector form as:
 
-\[ \hat{y} = \theta^T \cdot x \]
+$\[ \hat{y} = \theta^T \cdot x \]$
 
 where:
-- \(\theta\) is the vector of coefficients,
-- \(x\) is the vector of features.
+- $\(\theta\)$ is the vector of coefficients,
+- $\(x\)$ is the vector of features.
 
 **Optimizing Parameters**
 
-The goal of multiple linear regression is to find the optimized parameters (\(\theta\)) that minimize the mean squared error (MSE) of the predictions. There are different methods to estimate the best coefficients, including ordinary least squares and optimization algorithms like gradient descent.
+The goal of multiple linear regression is to find the optimized parameters $(\(\theta\))$ that minimize the mean squared error (MSE) of the predictions. There are different methods to estimate the best coefficients, including ordinary least squares and optimization algorithms like gradient descent.
 
 **Making Predictions**
 
@@ -391,10 +391,9 @@ To ensure the validity of multiple linear regression, it's crucial to check for 
 
 In conclusion, multiple linear regression is a powerful tool for predicting continuous variables and understanding the relationships between multiple independent variables and a dependent variable. It allows us to gain valuable insights and make accurate predictions in various real-world scenarios.
 
-Week 3 : Classification
+# Week 3 : Classification
 K-Nearest Neighbours
-3.1 Introduction to Classificiation
-# Comprehensive Notes on Classification in Machine Learning
+## 3.1 Introduction to Classificiation
 
 **Introduction to Classification:**
 - Classification is a supervised learning approach used to categorize or classify unknown items into discrete classes.
@@ -427,7 +426,7 @@ K-Nearest Neighbours
 
 Classification is a versatile and widely used tool in machine learning, applicable in various industries for tasks like customer segmentation, prediction, and document classification. By understanding different classification algorithms, we can effectively tackle a wide range of classification problems and make accurate predictions in various domains.
 
-3.2 K-Nearest Neighbours
+## 3.2 K-Nearest Neighbours
 **Introduction to K-Nearest Neighbors (KNN) Algorithm:**
 - K-Nearest Neighbors is a classification algorithm used for predicting the class of an unknown data point based on its similarity to known data points.
 - It is a type of supervised learning algorithm and falls under the category of instance-based learning.
@@ -465,7 +464,7 @@ Classification is a versatile and widely used tool in machine learning, applicab
 - K-Nearest Neighbors is a simple yet powerful classification algorithm for making predictions based on the similarity between data points.
 - It is essential to select the appropriate value for K to ensure the model's accuracy and avoid overfitting or underfitting.
 
-3.3 Evaluation Metrics in Classification
+## 3.3 Evaluation Metrics in Classification
 ## Introduction
 
 Discussing evaluation metrics used to assess the performance of classification models. Evaluation metrics play a crucial role in model development as they provide insights into areas that may require improvement. We'll cover three main evaluation metrics for classifiers: Jaccard index, F1-score, and Log Loss.
@@ -474,7 +473,7 @@ Discussing evaluation metrics used to assess the performance of classification m
 
 The Jaccard index, also known as the Jaccard similarity coefficient, is a simple accuracy measurement. Let's assume we have a churn dataset with true labels represented by 'y' and predicted values by the classifier represented by 'y_hat.' The Jaccard index is defined as the size of the intersection divided by the size of the union of the two label sets.
 
-Jaccard Index (J) = Intersection(y, y_hat) / Union(y, y_hat)
+$Jaccard Index (J) = Intersection(y, y_hat) / Union(y, y_hat)$
 
 For example, if we have a test set of size 10 with 8 correct predictions (8 intersections), the accuracy by the Jaccard index would be 0.66. If the entire set of predicted labels for a sample strictly matches the true set of labels, then the subset accuracy is 1.0; otherwise, it is 0.0.
 
@@ -491,15 +490,15 @@ Let's interpret the confusion matrix for a binary classifier:
 
 Based on the count of each section, we can calculate the precision and recall of each class.
 
-Precision = TP / (TP + FP)
+$Precision = TP / (TP + FP)$
 
-Recall (True Positive Rate) = TP / (TP + FN)
+$Recall (True Positive Rate) = TP / (TP + FN)$
 
 ## F1-Score
 
 The F1 score is the harmonic average of precision and recall, providing a balanced measure of a classifier's performance. It reaches its best value at 1 (representing perfect precision and recall) and worst at 0.
 
-F1-Score = 2 * (Precision * Recall) / (Precision + Recall)
+$F1-Score = 2 * (Precision * Recall) / (Precision + Recall)$
 
 For example, if the F1-score for class 0 (churn=0) is 0.83 and for class 1 (churn=1) is 0.55, the average accuracy for this classifier is the mean of the F1-scores for both labels, which is 0.72 in this case.
 
@@ -513,7 +512,7 @@ Logarithmic Loss (Log Loss) measures the performance of a classifier when the pr
 
 Log Loss (Logarithmic Loss) is calculated as the negative logarithm of the predicted probability of the correct class:
 
-Log Loss = - Σ [ y * log(y_hat) + (1 - y) * log(1 - y_hat) ]
+$Log Loss = - Σ [ y * log(y_hat) + (1 - y) * log(1 - y_hat) ]$
 
 Where:
 - y is the true label (0 or 1) of the sample.
@@ -579,12 +578,12 @@ Entropy is a measure of the amount of information disorder or randomness in the 
 
 The formula to calculate entropy for a node with 'n' samples, where 'p' samples belong to class A and 'q' samples belong to class B, is:
 
-\[ \text{Entropy} = - \left( \frac{p}{n} \log_2 \frac{p}{n} + \frac{q}{n} \log_2 \frac{q}{n} \right) \]
+$\[ \text{Entropy} = - \left( \frac{p}{n} \log_2 \frac{p}{n} + \frac{q}{n} \log_2 \frac{q}{n} \right) \]$
 
 Where:
-- \( p \) is the number of samples belonging to class A in the node.
-- \( q \) is the number of samples belonging to class B in the node.
-- \( n = p + q \) is the total number of samples in the node.
+- $\( p \)$ is the number of samples belonging to class A in the node.
+- $\( q \)$ is the number of samples belonging to class B in the node.
+- $\( n = p + q \)$ is the total number of samples in the node.
 
 ## Information Gain
 
@@ -592,7 +591,7 @@ Information gain is the key concept in building decision trees. It represents th
 
 The formula to calculate information gain for an attribute after splitting the data is:
 
-\[ \text{Information Gain} = \text{Entropy before split} - \text{Weighted average of entropies after split} \]
+$\[ \text{Information Gain} = \text{Entropy before split} - \text{Weighted average of entropies after split} \]$
 
 Where:
 - **Entropy before split** is the entropy of the original node before splitting.
@@ -663,27 +662,27 @@ Logistic Regression
 
 **Dataset and Target:**
 - The dataset X is represented as a matrix of dimensions m x n, where m is the number of features and n is the number of records.
-    - \( X = \begin{bmatrix}
+    - $\( X = \begin{bmatrix}
       x_{11} & x_{12} & \cdots & x_{1n} \\
       x_{21} & x_{22} & \cdots & x_{2n} \\
       \vdots & \vdots & \ddots & \vdots \\
       x_{m1} & x_{m2} & \cdots & x_{mn}
-    \end{bmatrix} \)
+    \end{bmatrix} \)$
 - The target Y is a binary class variable represented as a column vector of dimensions n x 1.
-    - \( Y = \begin{bmatrix}
+    - $\( Y = \begin{bmatrix}
       y_1 \\
       y_2 \\
       \vdots \\
       y_n
-    \end{bmatrix} \)
+    \end{bmatrix} \)$
 
 **Logistic Regression Model:**
-- The logistic regression model (\( \hat{Y} \)) predicts the probability of a sample (customer) belonging to class 1.
-    - \( \hat{Y} = P(Y = 1 | X) \)
+- The logistic regression model $(\( \hat{Y} \))$ predicts the probability of a sample (customer) belonging to class 1.
+    - $\( \hat{Y} = P(Y = 1 | X) \)$
 
 **Probability Calculation:**
 - The probability of a sample (customer) belonging to class 0 can be calculated as:
-    - \( P(Y = 0 | X) = 1 - P(Y = 1 | X) \)
+    - $\( P(Y = 0 | X) = 1 - P(Y = 1 | X) \)$
 
 # 4.2 Linear Regression and Logistic Regression
 ## Introduction
@@ -692,13 +691,13 @@ Logistic Regression
 
 ## Logistic Regression Goals
 - Logistic regression aims to predict the **class** of each customer and the **probability** of each sample belonging to a class.
-- It seeks to build a model (\( \hat{y} \)) that estimates the class of a customer given its features (\( x \)).
-- \( y \) represents the actual labels, and \( \hat{y} \) represents predicted values by the model.
+- It seeks to build a model $(\( \hat{y} \))$ that estimates the class of a customer given its features $(\( x \))$.
+- $\( y \)$ represents the actual labels, and $\( \hat{y} \)$ represents predicted values by the model.
 
 ## Linear Regression for Binary Classification
 - Linear regression cannot be directly used for binary classification.
 - Example scenario: Predicting churn (categorical) using age (continuous) as the feature.
-- Linear regression fits a line (\( y = a + bx \)) through data points for continuous outcomes.
+- Linear regression fits a line $(\( y = a + bx \))$ through data points for continuous outcomes.
 
 ## Sigmoid Function Introduction
 - **Sigmoid function** is a key component of logistic regression.
@@ -707,22 +706,22 @@ Logistic Regression
 
 ## Sigmoid Function Details
 - The sigmoid function resembles a step function but produces a smooth curve.
-- Sigmoid function equation: \( \text{sigmoid}(z) = \frac{1}{1 + e^{-z}} \).
-- When \( z \) (input to sigmoid) is large, \( e^{-z} \) approaches 0, and sigmoid value approaches 1.
-- When \( z \) is small, \( e^{-z} \) approaches infinity, and sigmoid value approaches 0.
+- Sigmoid function equation: $\( \text{sigmoid}(z) = \frac{1}{1 + e^{-z}} \)$.
+- When $\( z \)$ (input to sigmoid) is large, $\( e^{-z} \)$ approaches 0, and sigmoid value approaches 1.
+- When $\( z \)$ is small, $\( e^{-z} \)$ approaches infinity, and sigmoid value approaches 0.
 
 ## Logistic Regression Model with Sigmoid
 - In logistic regression, the model predicts the **probability** that an input belongs to class 1.
-- The probability of class 0 can be calculated as \( 1 - \text{sigmoid}(\Theta^T x) \).
+- The probability of class 0 can be calculated as $\( 1 - \text{sigmoid}(\Theta^T x) \)$.
 
 ## Training the Logistic Regression Model
-- The goal is to find optimal parameter values (\( \Theta \)) for the sigmoid function.
+- The goal is to find optimal parameter values $(\( \Theta \))$ for the sigmoid function.
 - Steps of training process:
-    1. Initialize \( \Theta \) randomly.
-    2. Calculate model output using sigmoid: \( \hat{y} = \text{sigmoid}(\Theta^T x) \).
-    3. Compare \( \hat{y} \) with actual label \( y \) and calculate error.
+    1. Initialize $\( \Theta \)$ randomly.
+    2. Calculate model output using sigmoid: $\( \hat{y} = \text{sigmoid}(\Theta^T x) \)$.
+    3. Compare $\( \hat{y} \)$ with actual label $\( y \)$ and calculate error.
     4. Calculate total error (cost) for all customers using a cost function.
-    5. Adjust \( \Theta \) to minimize the cost using techniques like gradient descent.
+    5. Adjust $\( \Theta \)$ to minimize the cost using techniques like gradient descent.
     6. Iterate steps 2 to 5 until cost is sufficiently minimized.
 
 ## Conclusion
@@ -736,34 +735,34 @@ Logistic Regression
 The main goal of training a logistic regression model is to find the optimal parameters \( \Theta \) that best estimate the labels of the samples in the dataset.
 
 ### Cost Function
-The cost function measures the error between the actual labels \( y \) and the predicted outputs \( \hat{y} \) of the logistic regression model. It quantifies how well the model is performing.
+The cost function measures the error between the actual labels $\( y \)$ and the predicted outputs $\( \hat{y} \)$ of the logistic regression model. It quantifies how well the model is performing.
 
-The general formula for the cost function \( J(\Theta) \) for logistic regression is given by:
-\[ J(\Theta) = -\frac{1}{n} \sum_{i=1}^{n} \left[ y^{(i)} \log(\hat{y}^{(i)}) + (1 - y^{(i)}) \log(1 - \hat{y}^{(i)}) \right] \]
+The general formula for the cost function $\( J(\Theta) \)$ for logistic regression is given by:
+$\[ J(\Theta) = -\frac{1}{n} \sum_{i=1}^{n} \left[ y^{(i)} \log(\hat{y}^{(i)}) + (1 - y^{(i)}) \log(1 - \hat{y}^{(i)}) \right] \]$
 
 Where:
-- \( n \) is the number of training samples.
-- \( y^{(i)} \) is the actual label for the \( i \)-th sample.
-- \( \hat{y}^{(i)} \) is the predicted output for the \( i \)-th sample.
+- $\( n \)$ is the number of training samples.
+- $\( y^{(i)} \)$ is the actual label for the $\( i \)$-th sample.
+- $\( \hat{y}^{(i)} \)$ is the predicted output for the $\( i \)$-th sample.
 
 ### Gradient Descent
-Gradient descent is an optimization technique used to update the parameter values \( \Theta \) iteratively in order to minimize the cost function. It works by calculating the gradient of the cost function with respect to each parameter and updating the parameters in the opposite direction of the gradient.
+Gradient descent is an optimization technique used to update the parameter values $\( \Theta \)$ iteratively in order to minimize the cost function. It works by calculating the gradient of the cost function with respect to each parameter and updating the parameters in the opposite direction of the gradient.
 
 The update rule for gradient descent is as follows:
-\[ \Theta_j := \Theta_j - \alpha \frac{\partial}{\partial \Theta_j} J(\Theta) \]
+$\[ \Theta_j := \Theta_j - \alpha \frac{\partial}{\partial \Theta_j} J(\Theta) \]$
 
 Where:
-- \( \alpha \) is the learning rate, which controls the step size in each iteration.
-- \( \Theta_j \) is the \( j \)-th parameter of the parameter vector \( \Theta \).
-- \( \frac{\partial}{\partial \Theta_j} J(\Theta) \) is the partial derivative of the cost function with respect to \( \Theta_j \), which indicates the direction and magnitude of the update.
+- $\( \alpha \)$ is the learning rate, which controls the step size in each iteration.
+- $\( \Theta_j \)$ is the $\( j \)$-th parameter of the parameter vector $\( \Theta \)$.
+- $\( \frac{\partial}{\partial \Theta_j} J(\Theta) \)$ is the partial derivative of the cost function with respect to $\( \Theta_j \)$, which indicates the direction and magnitude of the update.
 
 Gradient descent proceeds iteratively by updating the parameters until convergence, which is achieved when the cost function reaches a minimum or a predefined stopping criterion is met.
 
 ### Summary of Training Algorithm
-1. Initialize the parameters \( \Theta \) with random values.
-2. Calculate the cost function \( J(\Theta) \) based on the current parameter values.
-3. Calculate the gradient of the cost function with respect to each parameter \( \Theta_j \).
-4. Update the parameters \( \Theta_j \) using the gradient descent update rule.
+1. Initialize the parameters $\( \Theta \)$ with random values.
+2. Calculate the cost function $\( J(\Theta) \)$ based on the current parameter values.
+3. Calculate the gradient of the cost function with respect to each parameter $\( \Theta_j \)$.
+4. Update the parameters $\( \Theta_j \)$ using the gradient descent update rule.
 5. Repeat steps 2 to 4 until convergence or a maximum number of iterations is reached.
 
 By following this iterative process, the logistic regression model gradually adjusts its parameters to minimize the cost function, resulting in improved predictions and better classification accuracy.
@@ -795,7 +794,7 @@ SVM is a versatile algorithm that can handle different types of machine learning
 
 ## 4.5 Multiclass Prediction
 
-Week 5 : Intro to Clustering
+# Week 5 : Intro to Clustering
 K-Means Clustering
 ## 5.1 Intro to Clustering
 ### Introduction to Customer Segmentation
@@ -831,11 +830,11 @@ K-Means Clustering is a technique used for customer segmentation and grouping si
 - Commonly used: 
 
    1. **Euclidean Distance:**
-      - Formula: $$\sqrt{\sum_{i=1}^{n} (x_i - y_i)^2}$$
+      - Formula: $\sqrt{\sum_{i=1}^{n} (x_i - y_i)^2}$
       - Measures straight-line distance between points
       
    2. **Minkowski Distance:**
-      - Formula: $$\left(\sum_{i=1}^{n} |x_i - y_i|^p\right)^{\frac{1}{p}}$$
+      - Formula: $\left(\sum_{i=1}^{n} |x_i - y_i|^p\right)^{\frac{1}{p}}$
       - Generalization of Euclidean and Manhattan distances
       - For p = 2, Minkowski distance reduces to Euclidean distance
 
