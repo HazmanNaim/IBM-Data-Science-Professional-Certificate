@@ -55,9 +55,8 @@ Check the [link](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Cer
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
-<!--
+
 <p align="middle">
-  <a href="https://coursera.org/share/21ca52866107247edf82d2717a04d98c"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/282544193332bfc492482be34c222ac0c78d7077/08.Data%20Visualization%20with%20Python/Asset/Coursera%20KQ3RYZA6LNSE-1.png" height="370"></a>
-  <a href="https://www.credly.com/go/DOErL9xInR7eIy0L1IMOrg"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/282544193332bfc492482be34c222ac0c78d7077/08.Data%20Visualization%20with%20Python/Asset/Data_Visual_w_Python.png" height="370"></a>
+  <a href="https://coursera.org/share/a881caf0f5b4cd99c5d10b8d32e31752"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/d894faa12445819110f5e6577a40f765c0af937a/09.Machine%20Learning%20with%20Python/Asset/Coursera%20KHE4T34GADKH-1.png" height="370"></a>
+  <a href="https://www.credly.com/badges/2e01ae40-80f9-4868-8aac-d71a157717cc/public_url"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/d894faa12445819110f5e6577a40f765c0af937a/09.Machine%20Learning%20with%20Python/Asset/Machine_Learning_with_Python.png" height="370"></a>
 </p>
--->
