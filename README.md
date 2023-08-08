@@ -1,5 +1,5 @@
 # IBM Data Science Professional Certificate
-Last update: 22/7/2023
+Last update: 7/8/2023
 
 Attention to Visitors: Please note that this repository does not offer specific solutions for the courseworks. However, if you are seeking an overview of this certification, you are more than welcome to explore!
 ## ❔ About
