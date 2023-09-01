@@ -40,7 +40,7 @@ The following Python libraries were used throughout the certification:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-Seaborn, Beautiful Soup
+Seaborn, Beautiful Soup, Folium, Dash
 
 ## 👷‍♂️ Projects
 - [Stock Data Extraction and Visualization: Tesla and Gamestop](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/89e36c497f67cb5f6062c941dc998a81442380e9/05.Python%20Project%20for%20Data%20Science/Project_Analysis%20of%20Historical%20Stock.ipynb)
@@ -54,6 +54,6 @@ Seaborn, Beautiful Soup
 ## 🏆 Certificates
 
 <p align="middle">
-  <a href="https://www.credly.com/badges/645f2561-39d0-460e-8f75-2bd17230f464"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/563bbb9621261250c5b8972899b3174c387aeff2/Professional_Certificate_Data_Science.png" height="370"></a>
   <a href="https://coursera.org/share/1c59367a176b10961e2688d8c87f99c5"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/563bbb9621261250c5b8972899b3174c387aeff2/Coursera%20DL5UCDBYTT52_Hazman.jpg" height="370"></a>
+  <a href="https://www.credly.com/badges/645f2561-39d0-460e-8f75-2bd17230f464"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/563bbb9621261250c5b8972899b3174c387aeff2/Professional_Certificate_Data_Science.png" height="370"></a>
 </p>
