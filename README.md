@@ -1,5 +1,5 @@
 # IBM Data Science Professional Certificate
-Last update: 7/8/2023
+Last update: 1/9/2023
 
 Attention to Visitors: Please note that this repository does not offer specific solutions for the courseworks. However, if you are seeking an overview of this certification, you are more than welcome to explore!
 ## ❔ About
@@ -17,9 +17,7 @@ This repository serves as a comprehensive collection of documentation and resour
 - ✅ [07. Data Analysis with Python](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/80b1a6b442ff6dc3603d864976974711b045fd65/07.Data%20Analysis%20With%20Python)
 - ✅ [08. Data Visualization with Python](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/2244b2f7cd8af5da2e553e2054ed76e3c5b2c227/08.Data%20Visualization%20with%20Python)
 - ✅ [09. Machine Learning with Python](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/tree/b6370e702016fc2000e2fb90b6d4c68d53258dd8/09.Machine%20Learning%20with%20Python)
-- 🔛 10. Applied Data Science Capstone
-  
-  ✅ _Completed_   |   🔛 _Ongoing_
+- ✅ 10. Applied Data Science Capstone
 
   ✨✨Click on each course to view the relevant information and certificates!✨✨
 
@@ -50,7 +48,12 @@ Seaborn, Beautiful Soup
 - [Modeling and Predicting Housing Prices in King County, USA: Analyzing House Sales Data](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/80b1a6b442ff6dc3603d864976974711b045fd65/07.Data%20Analysis%20With%20Python/Module%206/IBMDeveloperSkillsNetwork-DA0101EN-labs_Module%206_House_Sales_in_King_Count_USA.jupyterlite.ipynb)
 - [Analyzing and Visualizing US Domestic Airline Flights using a Dash Dashboard](https://interactive-us-domestic-flights-dash-demo.onrender.com/)
 - [Rain Prediction in Australia with Machine Learning](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/0e2bc574455539896f4038e26d89a4627bce6455/09.Machine%20Learning%20with%20Python/Module%206/ML0101EN_SkillUp_FinalAssignment.ipynb)
+- [Predicting SpaceX Launch with Data Science](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Module%205/Capstone_presentation.pdf)
 
 
 ## 🏆 Certificates
-[Ongoing]
+
+<p align="middle">
+  <a href="https://www.credly.com/badges/645f2561-39d0-460e-8f75-2bd17230f464"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/563bbb9621261250c5b8972899b3174c387aeff2/Professional_Certificate_Data_Science.png" height="370"></a>
+  <a href="https://coursera.org/share/1c59367a176b10961e2688d8c87f99c5"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/563bbb9621261250c5b8972899b3174c387aeff2/Coursera%20DL5UCDBYTT52_Hazman.jpg" height="370"></a>
+</p>
