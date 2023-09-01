@@ -15,7 +15,7 @@
 - Dashboard creation
 
 ## 📚 Projects and Assignments
-[To be continued]
+- [Stock Data Extraction and Visualization: Tesla and Gamestop](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/05.Python%20Project%20for%20Data%20Science/Project_Analysis%20of%20Historical%20Stock.ipynb)
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
