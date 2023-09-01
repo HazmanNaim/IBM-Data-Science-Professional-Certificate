@@ -11,7 +11,7 @@ This capstone project involves predicting the success of Falcon 9’s first stag
 - Structuring and building a data-findings report
 
 ## 📚 Projects and Assignments
-[Final Report](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/0e2bc574455539896f4038e26d89a4627bce6455/09.Machine%20Learning%20with%20Python/Module%206/ML0101EN_SkillUp_FinalAssignment.ipynb)
+[Final Report](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Module%205/Capstone_presentation.pdf)
 
 ## 📑 Summary of Learning
 ### Data Collection
@@ -45,6 +45,6 @@ This capstone project involves predicting the success of Falcon 9’s first stag
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/a881caf0f5b4cd99c5d10b8d32e31752"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/d894faa12445819110f5e6577a40f765c0af937a/09.Machine%20Learning%20with%20Python/Asset/Coursera%20KHE4T34GADKH-1.png" height="370"></a>
-  <a href="https://www.credly.com/badges/2e01ae40-80f9-4868-8aac-d71a157717cc/public_url"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/d894faa12445819110f5e6577a40f765c0af937a/09.Machine%20Learning%20with%20Python/Asset/Machine_Learning_with_Python.png" height="370"></a>
+  <a href="https://www.credly.com/badges/d9483161-9f06-48bb-ba2f-5db58547cfc1"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Asset/Coursera%20KSKD6YY3293R_Hazman.jpg" height="370"></a>
+  <a href="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Asset/Applied%20Data%20Science%20Badge.png"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Asset/Applied%20Data%20Science%20Badge.png" height="370"></a>
 </p>
