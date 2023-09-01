@@ -11,7 +11,7 @@ This capstone project involves predicting the success of Falcon 9’s first stag
 - Structuring and building a data-findings report
 
 ## 📚 Projects and Assignments
-[Final Report](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Module%205/Capstone_presentation.pdf)
+[Final Report](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Module%205/Capstone_presentation.pdf)
 
 ## 📑 Summary of Learning
 ### Data Collection
