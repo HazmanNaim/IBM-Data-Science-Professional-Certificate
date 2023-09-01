@@ -14,7 +14,7 @@ This course focuses on presenting and visualizing complex data in an understanda
 (Check out the source code in this [repository](https://github.com/HazmanNaim/demo-dash/tree/main))
 
 ## 📑 Summary of Learning
-Check the [link](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/1eaf426ce9f930aae5dfc3d2a2e9ffd2cd6b26c4/08.Data%20Visualization%20with%20Python/Note/README.md) here for more detailed note.
+Check the [link](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/08.Data%20Visualization%20with%20Python/Note/README.md) here for more detailed note.
 ### Module 1:
 - Describe the importance of data visualization
 - Relate the history of Matplotlib and its architecture
