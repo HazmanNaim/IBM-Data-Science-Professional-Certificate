@@ -10,10 +10,10 @@ This course provided a comprehensive overview of the field, beginning with diver
 - Ability to choose the most suitable algorithm for specific tasks based on understanding their strengths, weaknesses, and practical implications.
 
 ## 📚 Projects and Assignments
-[Rain Prediction in Australia with Machine Learning](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/0e2bc574455539896f4038e26d89a4627bce6455/09.Machine%20Learning%20with%20Python/Module%206/ML0101EN_SkillUp_FinalAssignment.ipynb)
+[Rain Prediction in Australia with Machine Learning](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/09.Machine%20Learning%20with%20Python/Module%206/ML0101EN_SkillUp_FinalAssignment.ipynb)
 
 ## 📑 Summary of Learning
-Check the [link](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/9cd8f188788465ce0e2a79061dc99b57bfe15d3e/09.Machine%20Learning%20with%20Python/Note/Note.md) here for more detailed note.
+Check the [link](https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/09.Machine%20Learning%20with%20Python/Note/Note.md) here for more detailed note.
 ### Module 1:
 - Provide examples of Machine Learning in various industries.
 - Outline the steps machine learning uses to solve problems.
