@@ -45,6 +45,6 @@ This capstone project involves predicting the success of Falcon 9’s first stag
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.credly.com/badges/d9483161-9f06-48bb-ba2f-5db58547cfc1"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Asset/Coursera%20KSKD6YY3293R_Hazman.jpg" height="370"></a>
-  <a href="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Asset/Applied%20Data%20Science%20Badge.png"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Asset/Applied%20Data%20Science%20Badge.png" height="370"></a>
+  <a href="https://coursera.org/share/1c59367a176b10961e2688d8c87f99c5"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Asset/Coursera%20KSKD6YY3293R_Hazman.jpg" height="370"></a>
+  <a href="https://www.credly.com/badges/d9483161-9f06-48bb-ba2f-5db58547cfc1"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/41432f5340a283e2de5c041a1e54e52e0f027efc/10.%20Applied%20Data%20Science%20Capstone/Asset/Applied%20Data%20Science%20Badge.png" height="370"></a>
 </p>
